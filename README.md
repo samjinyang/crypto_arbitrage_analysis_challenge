@@ -28,7 +28,7 @@ Here is an example of the calculations run for this crypto arbitrage analysis:
 
 ## Usage
 
-This program will read in **csv** files, and use the **Pandas** library to read in those files as **dataframes**:
+This program will read in **csv** files, and use the **Pandas** library to read in those files as **dataframes**  We will be reading and analyzing data for **Bitcoin** prices in the **Bitstamp** and **Coinbase** markets, and choosing a slice of the data from an early period (2016), middle period (2017), and a late period (2018):
 
 ![use1](https://user-images.githubusercontent.com/80929342/115175721-62df6e00-a080-11eb-8499-5b06a0f9b9ba.JPG)
 
